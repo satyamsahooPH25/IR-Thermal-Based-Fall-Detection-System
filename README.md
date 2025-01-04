@@ -5,6 +5,8 @@
 
 https://drive.google.com/uc?export=preview&id=17YBwep4HXVKkWZCNCKmd2EakihRSmod-
 
+# IR Thermal-Based Fall Detection System
+
 ## Demo Video
 Watch the demo of the fall detection system below:
 
