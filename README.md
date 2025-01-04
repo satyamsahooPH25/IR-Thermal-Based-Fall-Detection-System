@@ -1,8 +1,7 @@
 # IR Thermal-Based Fall Detection System
 
-
-Uploading Untitled video - Made with Clipchamp (1).mp4…
-
+## Demo Video
+[Watch Demo Video](https://drive.google.com/file/d/17YBwep4HXVKkWZCNCKmd2EakihRSmod-/view?usp=drive_link)
 
 ## Overview
 Developed an infrared (IR) thermal-based fall detection system tailored for elderly individuals. The system focuses on accurate detection of fall events by extracting critical features like joint angles and inter-joint distances from thermal video feeds. Multiple machine learning models were ensembled to ensure robust classification performance.
